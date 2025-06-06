@@ -1,2 +1,2 @@
-# FR-CSU:Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
-Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
+# FR-CSU
+Code for WWW-25 paper: Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion
